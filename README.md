@@ -27,31 +27,6 @@ The project includes:
 - Random Forest Classifier
 - Logistic Regression
 
-# Project Visualizations
-
-## Correlation Heatmap
-
-![Correlation Heatmap](images/correlation_heatmap.png)
-
----
-
-## Feature Importance Analysis
-
-![Feature Importance](images/feature_importance.png)
-
----
-
-## Traffic Impact Analysis
-
-![Traffic Analysis](images/traffic_analysis.png)
-
----
-
-## Confusion Matrix
-
-![Confusion Matrix](images/confusion_matrix.png)
-
----
 
 ## Project Structure
 - Data Cleaning
